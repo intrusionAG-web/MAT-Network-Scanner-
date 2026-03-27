@@ -8,3 +8,5 @@ This will be a Python-based CLI/GUI network scanner that:
 * Scans open ports on discovered hosts
 * Identifies services running on those ports (banner grabbing)
 * Displays results in a clean terminal UI
+
+NOTE - please pip install all neccessary files  
